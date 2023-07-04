@@ -13,6 +13,7 @@
 _________________
 
 ## Where
+- ☁️ [bsky @0x42.red](https://bsky.app/profile/0x42.red)
 - 🦆 [@0x42red](https://twitter.com/0x42red)
 - 🔏 [0x42 lock picking](https://www.youtube.com/channel/UCf-gBYuLvc6p71w57UiGSWg)
 - 🏚 [Rogues Village @ DEFCON](https://roguesvillage.com)
@@ -20,6 +21,7 @@ _________________
 
 ## Tools
 - Golang
+- Rust
 - Python
 - C
 - Bash
